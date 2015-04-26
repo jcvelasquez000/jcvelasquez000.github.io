@@ -1,0 +1,64 @@
+/*Color Index
+Main blue: #045AFF
+Darker blue: #1708E8
+Turquoise Blue: #08B0E8
+Turquoise #0AFFDS
+Purple: #7F047F */
+
+* {
+	background-color: #999999;
+	font-family: Calibri;
+}
+
+div {
+	display: block;
+}
+
+#title {
+	text-align: center;
+	color: white;
+	height: 50px;
+}
+
+.headerJCV {
+	border-bottom: red;
+}
+
+table {
+	width: 100%;
+	margin-bottom: 5px;
+
+}
+
+td {
+	color: white;
+	position: relative;
+	width: 25%;
+	height: 25px;
+	text-align: center;
+	font-size:large;
+}
+
+td:hover {
+	color: #444444;	
+}
+
+a {
+	text-decoration: none;
+	color:none;
+}
+
+a:visited {
+	text-decoration: none;
+	color:inherit;
+}
+
+img {
+	width: 110%;
+	margin-left: -10px;
+}
+
+#footertxt {
+	text-align: center;
+	color: white;
+}	
